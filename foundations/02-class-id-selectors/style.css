@@ -1,0 +1,20 @@
+.odd{
+    background-color: rgb(255,167,167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.additude{
+    font-size: 36px;
+}
+
+
+#two{
+    color: turquoise;
+    font-size: 36px;
+}
+
+#four{
+    background-color: turquoise;
+    font-weight: bold;
+    font-size: 24px;
+}
